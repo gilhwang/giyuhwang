@@ -1,5 +1,9 @@
-Gil Hwang
-University of Toronto - Computer Engineering
+- Name: Gil Hwang
+- Education: University of Toronto - Computer Engineering
+- Programming Language: 
+    - C/C++
+    - ARM Assembly
+    - Verilog
 
 
 <!---
