@@ -2,6 +2,7 @@
 - Education: University of Toronto - Computer Engineering
 - Programming Language: 
     - C/C++
+    - Python
     - ARM Assembly
     - Verilog
 
